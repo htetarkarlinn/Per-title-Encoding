@@ -1,5 +1,6 @@
 # Per-title-Encoding
 Deploy a trained Machine Learning model for the "per-title encoding" task into a RESTful API using the FastAPI framework.
+All the resources and codes will be updated in this repo.
 
 Things we need to learn before we start! ( Please try to learn them AT THE END OF APRIL)
 1. Python ( if needed )
