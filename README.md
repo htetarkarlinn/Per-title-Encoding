@@ -1,0 +1,26 @@
+# Per-title-Encoding
+Deploy a trained Machine Learning model for the "per-title encoding" task into a RESTful API using the FastAPI framework.
+
+Things we need to learn before we start! ( Please try to learn them AT THE END OF APRIL)
+1. Python ( if needed )
+   
+3. Machine Learning
+   Model formats: .pkl (scikit-learn), .h5 (Keras), .pt (PyTorch)
+
+4. FastAPI
+   What is FastAPI
+   Creating Endpoints ( GET AND POST )
+   Using Pydantic for data validation
+   Running FastAPI with Uvicorn
+
+
+6. Video Processing and Encoding Parameters
+   What is video encoding?
+   Understanding bitrate (-b:v), codec (-c:v), and presets (-preset)
+   Basics of FFmpeg (for encoding video)
+
+
+8. Deployment and Cloud (Later Phase)
+   Running FastAPI on Docker
+   Deploying to AWS
+   Using Gunicorn + Uvicorn for production
