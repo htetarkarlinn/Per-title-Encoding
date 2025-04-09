@@ -25,3 +25,5 @@ Things we need to learn before we start! ( Please try to learn them AT THE END O
    Running FastAPI on Docker
    Deploying to AWS
    Using Gunicorn + Uvicorn for production
+
+Dataset - https://www.kaggle.com/code/aminmb2800/machine-learning-on-netflix-data-video-quality/notebook
