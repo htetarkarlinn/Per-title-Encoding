@@ -27,3 +27,11 @@ Things we need to learn before we start! ( Please try to learn them AT THE END O
    Using Gunicorn + Uvicorn for production
 
 Dataset - https://www.kaggle.com/code/aminmb2800/machine-learning-on-netflix-data-video-quality/notebook
+Learning Resources -
+1.KHóa học python
+https://quantrimang.com/hoc/hoc-python
++ Học trên coursera
+2. Khóa học marchine learning cơ bản
+https://machinelearningcoban.com/
+3. KHóa học AI
+https://phamdinhkhanh.github.io/
